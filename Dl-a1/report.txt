@@ -1,0 +1,21 @@
+The twitter apps website was used to create consumer key, consumer secret, authorization token and authorization secret.
+
+A code was written in python(dl.py), importing the tweepy,json and time libraries, to extract the url, tweet created date and tweet id of each tweet using the twitter API. This was done for about 10,000 tweets. A file which had the above mentioned data of 10,000 tweets was generated. The http response codes for each of the above extracted t.co links were extracted by running the curl.py file.
+
+From the text files generated, the information was copied into MS Excel to extract the number of times each response code appeared in the generated .txt file.Using the countif function in MS Excel the number of times of a response code repeated was calculated and this information was used to plot a graph in MS word.
+
+From github, the carbondate folder was downloaded and the local.py file was run to obtain the link and tweet created dates. Another python file (delta.py) was run to obtain the difference between age of tweets and links. These values were used to draw a histogram. These deltas were also used to find the mean,std dev,std err,median. 
+
+Mean=684.9669925
+
+Median=446
+
+Stddev=707.344922
+
+
+  
+
+
+
+
+
