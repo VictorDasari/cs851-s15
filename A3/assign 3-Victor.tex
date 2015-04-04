@@ -1,0 +1,251 @@
+
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[12pt]{article} % A4 paper and 11pt font size
+\usepackage{natbib}
+\usepackage{hyperref}
+%\usepackage{fourier}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={210mm,210mm},
+ left=20mm,
+ right=20mm,
+ top=20mm,
+ bottom=20mm,
+ }
+\title{Assignment 3}
+\author{Victor Dasari} % Your name
+
+\date{\normalsize\today}
+
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+ % Today's date or a custom date
+
+\begin{document}
+\newpage
+
+
+%----------------------------------------------------------------------------------------
+%	PROBLEM 1
+%----------------------------------------------------------------------------------------
+
+\section{Boilerpipe}
+
+%\lipsum[2] % Dummy text
+
+The question 1 of the assignment is to run boilerpipe on 10,000 files downloaded using wget. Boilerpipe removes all the html templates from the downloaded files.
+
+I downloaded Boilerpipe and imported the threee .jar files to my classpath.I then used the boilerpipe.java program to remove the html templates. I did this on command prompt and it took me a lot of time to run just about 500 URIs. I then used net beans to run the 10 separate Trial.java programs, each program with different inputs and it saved me a lot of time.
+
+The file size of 9500 URIs downloaded using wget is approx.900MB. The file size of 9500 URIs after using boilerpipe is approx.16MB. Total words after successful boilerpipe removal is 1,535,723. I estimated the total words before boilerpipe removal to be approximately equal to 86,384,458 words based on the file size.
+Boilerpipe was successful for about 6101 URIs out of the total 9000 URIs I used. The remaining URIs threw exceptions and below are some of the frequent exceptions received:
+
+Ex 1:de.l3s.boilerpipe.BoilerpipeProcessingException: java.net.SocketException: Unexpected end of file from server
+http://www.nbcmiami.com/news/local/Plane-Crashes-in-SW-Miami-Dade-County-291559351.html
+I received the above error for the above URI. I received such errors a long time after the servers were contacted. These exceptions were the main reason the boilerpipe.java took a lot of time to run.\cite{boilerpipe}
+
+Ex 2:de.l3s.boilerpipe.BoilerpipeProcessingException: java.net.UnknownHostException:
+merumo.info
+http://merumo.info/15pp37/
+
+Ex 3:BoilerpipeProcessingException: java.io.FileNotFoundException: http://err.lolipop.jp/404.html
+http://truffle.upper.jp/ahv21
+
+Ex 4:de.l3s.boilerpipe.BoilerpipeProcessingException: java.io.IOException: Server returned HTTP response code: 403 
+
+Ex 5:de.l3s.boilerpipe.BoilerpipeProcessingException: java.io.IOException: Server returned HTTP response code: 503 for URL:http://topic.xvs.jp/bbp
+
+Ex 6: http://item.rakuten.co.jp/spatecno/10000567/?
+For websites that ended with '.jp' the boiler pipe was unsuccessful as well.
+
+Ex7: I found that for most of the news websites the boiler pipe was unsuccessful.
+
+An example of a successful boilerpipe removal
+http://www.missfoodwise.com/2015/02/food-
+\url{photography-magic-soup-book.html?utm_content=bufferd528d&utm_medium=
+social&utm_source=twitter.com&utm_campaign=buffer}
+
+%------------------------------------------------
+
+%\subsection{Heading on level 2 (subsection)}
+
+
+
+%------------------------------------------------
+
+%\subsubsection{Heading on level 3 (subsubsection)}
+
+%\lipsum[3] % Dummy text
+
+%\paragraph{Heading on level 4 (paragraph)}
+
+%\lipsum[6] % Dummy text
+
+%----------------------------------------------------------------------------------------
+%	PROBLEM 2
+%----------------------------------------------------------------------------------------
+
+\section{Extracting unique terms}
+
+To extract unique terms and their frequencies I wrote a java program with a mapper and a reducer and ran it in a Hadoop environment. The mapper generates a key and value pair for every word in the input file. The reducer then generates total frequency for every unique word.\cite{hadoop}
+
+To run this java program in hadoop the input file should be kept in HDFS and the output generated is also in HDFS. The output should be copied from HDFS into the local machine.
+
+Out of the top 50 unique terms generated, after boilerpipe removal, about 10-11 terms are found in the stop words list and for the top 50 terms before boiler pipe removal none of those are found in the stop words list.
+
+I've used the WordCount.java program to extract the unique words. I've attached directions to run the WordCount.java file as well.
+
+
+
+\begin{table}[h]
+\centering
+\caption{Top 50 unique terms before boiler pipe}
+%vspace{1ex}
+\begin{tabular}{|r|r|}\hline
+Term & Frequency \\ \hline
+-	&	3503702	\\	\hline
+="	&	2126021	\\	\hline
+.	&	2003431	\\	\hline
+a	&	1875991	\\	\hline
+/	&	1380493	\\	\hline
+>	&	1254712	\\	\hline
+class	&	1231829	\\	\hline
+p	&	1115596	\\	\hline
+div	&	1025258	\\	\hline
+i	&	939684	\\	\hline
+d	&	908005	\\	\hline
+l	&	878443	\\	\hline
+e	&	872345	\\	\hline
+b	&	871899	\\	\hline
+m	&	853392	\\	\hline
+c	&	839751	\\	\hline
+j	&	829309	\\	\hline
+h	&	819502	\\	\hline
+k	&	805402	\\	\hline
+0	&	799214	\\	\hline
+f	&	761501	\\	\hline
+g	&	754305	\\	\hline
+n	&	744046	\\	\hline
+r	&	733237	\\	\hline
+%	&	730416	\\	\hline
+1	&	681085	\\	\hline
+u	&	636432	\\	\hline
+s	&	601923	\\	\hline
+t	&	600116	\\	\hline
+:	&	599755	\\	\hline
+2	&	581574	\\	\hline
+q	&	574632	\\	\hline
+,	&	564748	\\	\hline
+</	&	560449	\\	\hline
+4	&	556199	\\	\hline
+o	&	546042	\\	\hline
+3	&	509090	\\	\hline
+8	&	507972	\\	\hline
+<	&	505992	\\	\hline
+;	&	500797	\\	\hline
+5	&	500737	\\	\hline
+=	&	472302	\\	\hline
+9	&	462552	\\	\hline
+6	&	433063	\\	\hline
+span	&	425628	\\	\hline
+7	&	399257	\\	\hline
+com	&	375718	\\	\hline
+li	&	361690	\\	\hline
+href	&	343715	\\	\hline
+://	&	328463	\\	\hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\centering
+\caption{Top 50 unique terms after boiler pipe}
+%vspace{1ex}
+%\scalebox{0.9}{
+\begin{tabular}{|r|r|}\hline
+.	&	58212	\\	\hline
+,	&	53538	\\	\hline
+the	&	35043	\\	\hline
+a	&	25557	\\	\hline
+to	&	20563	\\	\hline
+-	&	17890	\\	\hline
+and	&	17345	\\	\hline
+of	&	16143	\\	\hline
+:	&	14641	\\	\hline
+i	&	13208	\\	\hline
+in	&	12191	\\	\hline
+/	&	12077	\\	\hline
+s	&	12025	\\	\hline
+'	&	11910	\\	\hline
+de	&	10640	\\	\hline
+p	&	10421	\\	\hline
+y	&	9988	\\	\hline
+(	&	9713	\\	\hline
+t	&	9045	\\	\hline
+e	&	8973	\\	\hline
+b	&	8844	\\	\hline
+?	&	8807	\\	\hline
+o	&	8636	\\	\hline
+)	&	8567	\\	\hline
+you	&	8564	\\	\hline
+!	&	8066	\\	\hline
+w	&	8055	\\	\hline
+u	&	8010	\\	\hline
+d	&	8008	\\	\hline
+q	&	7953	\\	\hline
+is	&	7883	\\	\hline
+j	&	7842	\\	\hline
+c	&	7659	\\	\hline
+play	&	7491	\\	\hline
+n	&	7488	\\	\hline
+]	&	7487	\\	\hline
+h	&	7361	\\	\hline
+x	&	7356	\\	\hline
+z	&	7317	\\	\hline
+k	&	7228	\\	\hline
+for	&	7182	\\	\hline
+f	&	7129	\\	\hline
+v	&	7013	\\	\hline
+l	&	7003	\\	\hline
+on	&	6790	\\	\hline
+this	&	6637	\\	\hline
+[	&	6451	\\	\hline
+1	&	6420	\\	\hline
+that	&	6018	\\	\hline
+it	&	5834	\\	\hline
+\end{tabular}
+\end{table}
+
+I used R to plot the graph for the above two tables. I have two R scripts. Run each script to view graph for before boiler pipe removal and the other for after boiler pipe removal.
+
+Zipf distribution: 
+
+Zipf's law states that given some corpus of natural language utterances, the frequency of any word is inversely proportional to its rank in the frequency table. Thus the most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, etc.
+
+From the frequencies i received Table 2.1 doesn't follow zipf distribution. The first term should occur twice as much as the second and thrice as much as the third for it to follow zipf distribution but the firs term occurs approximately 1.5 times the second and 1.75 times the third. This clearly shows that it doesn't follow zipf distribution.
+
+Table 2.2 doesn't follow zipf distribution either. First term occurs 1.1 times the second and 1.75 times the third and this shows that it doesn't follow zipf distribution. 
+
+
+
+\bibliographystyle{plain}
+\bibliography{mybib}
+
+
+%------------------------------------------------
+
+
+%------------------------------------------------
+
+
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
