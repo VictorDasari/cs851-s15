@@ -1,0 +1,23 @@
+{"original_uri":"http://www.charlotteobserver.com/2015/02/11/5508217/victims-father-says-chapel-hill.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.charlotteobserver.com/2015/02/11/5508217/victims-father-says-chapel-hill.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-13T03:06:58Z",
+"uri":"http://web.archive.org/web/20150213030658/http://www.charlotteobserver.com/2015/02/11/5508217/victims-father-says-chapel-hill.html"
+},
+{"datetime":"2015-02-19T10:24:33Z",
+"uri":"http://web.archive.org/web/20150219102433/http://www.charlotteobserver.com/2015/02/11/5508217/victims-father-says-chapel-hill.html"
+},
+{"datetime":"2015-02-24T07:58:42Z",
+"uri":"http://web.archive.org/web/20150224075842/http://www.charlotteobserver.com/2015/02/11/5508217/victims-father-says-chapel-hill.html"
+},
+{"datetime":"2015-04-14T04:16:23Z",
+"uri":"http://web.archive.org/web/20150414041623/http://www.charlotteobserver.com/2015/02/11/5508217/victims-father-says-chapel-hill.html"
+},
+{"datetime":"2015-04-21T17:11:59Z",
+"uri":"http://web.archive.org/web/20150421171159/http://www.charlotteobserver.com/2015/02/11/5508217/victims-father-says-chapel-hill.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.charlotteobserver.com/2015/02/11/5508217/victims-father-says-chapel-hill.html"}
+ }

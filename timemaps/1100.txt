@@ -1,0 +1,20 @@
+{"original_uri":"http://solanavi.jp/cs/qa.php",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://solanavi.jp/cs/qa.php",
+"mementos": {
+"list": [
+{"datetime":"2013-10-16T04:38:31Z",
+"uri":"http://web.archive.org/web/20131016043831/http://solanavi.jp/cs/qa.php"
+},
+{"datetime":"2013-12-15T23:15:36Z",
+"uri":"http://web.archive.org/web/20131215231536/http://solanavi.jp/cs/qa.php"
+},
+{"datetime":"2013-12-25T23:56:46Z",
+"uri":"http://web.archive.org/web/20131225235646/http://solanavi.jp/cs/qa.php"
+},
+{"datetime":"2014-04-03T10:52:51Z",
+"uri":"http://web.archive.org/web/20140403105251/http://solanavi.jp/cs/qa.php"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://solanavi.jp/cs/qa.php"}
+ }

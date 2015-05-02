@@ -1,0 +1,14 @@
+{"original_uri":"http://www.lainformacion.com/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.lainformacion.com/%0D",
+"mementos": {
+"list": [
+{"datetime":"2011-03-25T08:31:22Z",
+"uri":"http://veebiarhiiv.digar.ee/a/20110325083122/http://www.lainformacion.com/"
+},
+{"datetime":"2011-03-30T01:57:44Z",
+"uri":"http://wayback.vefsafn.is/wayback/20110330015744/http://www.lainformacion.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.lainformacion.com/%0D"}
+ }

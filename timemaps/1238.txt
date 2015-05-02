@@ -1,0 +1,11 @@
+{"original_uri":"http://error.fc2.com/blogf/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://error.fc2.com/blogf/%0D",
+"mementos": {
+"list": [
+{"datetime":"2013-11-10T08:59:40Z",
+"uri":"http://wayback.vefsafn.is/wayback/20131110085940/http://error.fc2.com/blogf/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://error.fc2.com/blogf/%0D"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://www.nba.com/leaguepass/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nba.com/leaguepass/%0D",
+"mementos": {
+"list": [
+{"datetime":"2009-11-18T08:24:45Z",
+"uri":"http://wayback.vefsafn.is/wayback/20091118082445/http://www.nba.com/leaguepass/"
+},
+{"datetime":"2010-01-08T14:49:06Z",
+"uri":"http://wayback.vefsafn.is/wayback/20100108144906/http://www.nba.com/leaguepass/"
+},
+{"datetime":"2013-11-09T14:18:26Z",
+"uri":"http://veebiarhiiv.digar.ee/a/20131109141826/http://www.nba.com/leaguepass/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nba.com/leaguepass/%0D"}
+ }

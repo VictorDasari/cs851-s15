@@ -1,0 +1,11 @@
+{"original_uri":"http://www.bl.uk/projects/living-knowledge-the-british-library-2015-2023",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bl.uk/projects/living-knowledge-the-british-library-2015-2023",
+"mementos": {
+"list": [
+{"datetime":"2015-03-16T20:26:56Z",
+"uri":"http://web.archive.org/web/20150316202656/http://www.bl.uk/projects/living-knowledge-the-british-library-2015-2023"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bl.uk/projects/living-knowledge-the-british-library-2015-2023"}
+ }

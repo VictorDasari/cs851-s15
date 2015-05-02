@@ -1,0 +1,32 @@
+{"original_uri":"http://sentidos.cl/ficha.php?keyy=smmlif&id=843&pagx=2&utm_source=karacter&utm_medium=acda6&link1=acda6%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://sentidos.cl/ficha.php?keyy=smmlif&id=843&pagx=2&utm_source=karacter&utm_medium=acda6&link1=acda6%0D",
+"mementos": {
+"list": [
+{"datetime":"2005-11-09T17:01:08Z",
+"uri":"http://www.webcitation.org/Db"
+},
+{"datetime":"2005-11-09T17:01:08Z",
+"uri":"http://www.webcitation.org/5BJffaHwv"
+},
+{"datetime":"2005-11-09T18:20:17Z",
+"uri":"http://www.webcitation.org/Q4"
+},
+{"datetime":"2005-11-09T18:20:17Z",
+"uri":"http://www.webcitation.org/5BJkqyEXD"
+},
+{"datetime":"2005-11-09T19:43:37Z",
+"uri":"http://www.webcitation.org/cV"
+},
+{"datetime":"2005-11-09T19:43:37Z",
+"uri":"http://www.webcitation.org/5BJqJIQwx"
+},
+{"datetime":"2005-11-21T21:23:56Z",
+"uri":"http://www.webcitation.org/1E8"
+},
+{"datetime":"2005-11-21T21:23:56Z",
+"uri":"http://www.webcitation.org/5BcCatQY5"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://sentidos.cl/ficha.php?keyy=smmlif&id=843&pagx=2&utm_source=karacter&utm_medium=acda6&link1=acda6%0D"}
+ }

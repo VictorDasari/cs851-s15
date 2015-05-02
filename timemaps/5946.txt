@@ -1,0 +1,14 @@
+{"original_uri":"http://www.cnet.com/news/theres-a-newly-discovered-core-inside-our-earths-core-and-it-behaves-oddly/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cnet.com/news/theres-a-newly-discovered-core-inside-our-earths-core-and-it-behaves-oddly/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-11T15:28:26Z",
+"uri":"http://archive.is/20150211152826/http://www.cnet.com/news/theres-a-newly-discovered-core-inside-our-earths-core-and-it-behaves-oddly/"
+},
+{"datetime":"2015-02-16T19:48:48Z",
+"uri":"//wayback.archive-it.org/all/20150216194848/http://www.cnet.com/news/theres-a-newly-discovered-core-inside-our-earths-core-and-it-behaves-oddly/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cnet.com/news/theres-a-newly-discovered-core-inside-our-earths-core-and-it-behaves-oddly/"}
+ }

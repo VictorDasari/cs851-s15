@@ -1,0 +1,11 @@
+{"original_uri":"http://live.nicovideo.jp%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://live.nicovideo.jp%0D",
+"mementos": {
+"list": [
+{"datetime":"2011-05-02T11:21:27Z",
+"uri":"http://www.webcitation.org/5yNYKYU7M"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://live.nicovideo.jp%0D"}
+ }

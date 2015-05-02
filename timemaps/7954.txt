@@ -1,0 +1,11 @@
+{"original_uri":"http://www.newadultaddiction.com/2015/02/fifty-shades-of-ford-giveaway.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.newadultaddiction.com/2015/02/fifty-shades-of-ford-giveaway.html",
+"mementos": {
+"list": [
+{"datetime":"2015-04-23T06:24:41Z",
+"uri":"http://web.archive.org/web/20150423062441/http://www.newadultaddiction.com/2015/02/fifty-shades-of-ford-giveaway.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.newadultaddiction.com/2015/02/fifty-shades-of-ford-giveaway.html"}
+ }

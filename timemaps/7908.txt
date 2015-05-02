@@ -1,0 +1,11 @@
+{"original_uri":"http://www.yyc.co.jp/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.yyc.co.jp/%0D",
+"mementos": {
+"list": [
+{"datetime":"2011-12-11T22:28:28Z",
+"uri":"http://webarchive.nationalarchives.gov.uk/20111211222828/http://www.yyc.co.jp/%0D"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.yyc.co.jp/%0D"}
+ }

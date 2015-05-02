@@ -1,0 +1,20 @@
+{"original_uri":"http://line.me/en/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://line.me/en/%0D",
+"mementos": {
+"list": [
+{"datetime":"2014-03-30T10:14:57Z",
+"uri":"http://wayback.vefsafn.is/wayback/20140330101457/http://line.me/en/"
+},
+{"datetime":"2014-10-27T11:39:38Z",
+"uri":"http://wayback.vefsafn.is/wayback/20141027113938/http://line.me/en/"
+},
+{"datetime":"2014-11-02T23:48:52Z",
+"uri":"http://wayback.vefsafn.is/wayback/20141102234852/http://line.me/en/"
+},
+{"datetime":"2014-12-02T23:38:24Z",
+"uri":"http://wayback.vefsafn.is/wayback/20141202233824/http://line.me/en/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://line.me/en/%0D"}
+ }

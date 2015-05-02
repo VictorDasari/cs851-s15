@@ -1,0 +1,32 @@
+{"original_uri":"http://www.thoroughbreddailynews.com/shared_content.cfm?Spendthrift_Expanding_Down_Under&id=1977",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.thoroughbreddailynews.com/shared_content.cfm?Spendthrift_Expanding_Down_Under&id=1977",
+"mementos": {
+"list": [
+{"datetime":"2005-11-09T16:53:50Z",
+"uri":"http://www.webcitation.org/6y"
+},
+{"datetime":"2005-11-09T16:53:50Z",
+"uri":"http://www.webcitation.org/5BJfBwMUf"
+},
+{"datetime":"2005-11-09T18:13:33Z",
+"uri":"http://www.webcitation.org/JR"
+},
+{"datetime":"2005-11-09T18:13:33Z",
+"uri":"http://www.webcitation.org/5BJkPc6Vy"
+},
+{"datetime":"2005-11-09T19:34:44Z",
+"uri":"http://www.webcitation.org/Vt"
+},
+{"datetime":"2005-11-09T19:34:44Z",
+"uri":"http://www.webcitation.org/5BJpjGt25"
+},
+{"datetime":"2005-11-21T21:18:50Z",
+"uri":"http://www.webcitation.org/1A4"
+},
+{"datetime":"2005-11-21T21:18:50Z",
+"uri":"http://www.webcitation.org/5BcCGB8jq"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.thoroughbreddailynews.com/shared_content.cfm?Spendthrift_Expanding_Down_Under&id=1977"}
+ }

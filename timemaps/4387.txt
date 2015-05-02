@@ -1,0 +1,26 @@
+{"original_uri":"http://espanol.yahoo.com/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://espanol.yahoo.com/%0D",
+"mementos": {
+"list": [
+{"datetime":"2013-11-02T12:22:52Z",
+"uri":"http://wayback.vefsafn.is/wayback/20131102122252/http://espanol.yahoo.com/"
+},
+{"datetime":"2014-03-22T20:28:41Z",
+"uri":"http://wayback.vefsafn.is/wayback/20140322202841/http://espanol.yahoo.com/"
+},
+{"datetime":"2014-07-12T13:31:34Z",
+"uri":"http://wayback.vefsafn.is/wayback/20140712133134/http://espanol.yahoo.com/"
+},
+{"datetime":"2014-07-12T13:31:37Z",
+"uri":"http://wayback.vefsafn.is/wayback/20140712133137/https://espanol.yahoo.com/"
+},
+{"datetime":"2014-10-26T16:57:23Z",
+"uri":"http://wayback.vefsafn.is/wayback/20141026165723/http://espanol.yahoo.com/"
+},
+{"datetime":"2014-10-26T16:57:25Z",
+"uri":"http://wayback.vefsafn.is/wayback/20141026165725/https://espanol.yahoo.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://espanol.yahoo.com/%0D"}
+ }

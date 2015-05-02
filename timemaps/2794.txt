@@ -1,0 +1,14 @@
+{"original_uri":"http://www2.zoorasia.org/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www2.zoorasia.org/%0D",
+"mementos": {
+"list": [
+{"datetime":"2011-10-09T22:44:58Z",
+"uri":"http://webarchive.nationalarchives.gov.uk/20111009224458/http://www2.zoorasia.org/%0D"
+},
+{"datetime":"2011-10-20T22:17:48Z",
+"uri":"http://webarchive.nationalarchives.gov.uk/20111020221748/http://www2.zoorasia.org/%0D"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www2.zoorasia.org/%0D"}
+ }

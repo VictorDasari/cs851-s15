@@ -1,0 +1,32 @@
+{"original_uri":"http://www.pixiv.net/member_illust.php?mode=medium&illust_id=44989543%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.pixiv.net/member_illust.php?mode=medium&illust_id=44989543%0D",
+"mementos": {
+"list": [
+{"datetime":"2009-08-23T12:47:10Z",
+"uri":"http://www.webcitation.org/5jF71vl9J"
+},
+{"datetime":"2011-04-18T02:04:17Z",
+"uri":"http://www.webcitation.org/5y1fWHJK1"
+},
+{"datetime":"2011-05-03T06:16:48Z",
+"uri":"http://www.webcitation.org/5yOkhjTHO"
+},
+{"datetime":"2011-06-28T00:40:25Z",
+"uri":"http://www.webcitation.org/5zla0QNqR"
+},
+{"datetime":"2011-07-05T21:01:45Z",
+"uri":"http://www.webcitation.org/5zxW9zTJL"
+},
+{"datetime":"2011-07-23T17:33:24Z",
+"uri":"http://www.webcitation.org/60Og5Ji9k"
+},
+{"datetime":"2011-07-26T01:14:40Z",
+"uri":"http://www.webcitation.org/60SCuSrcK"
+},
+{"datetime":"2013-01-13T08:29:15Z",
+"uri":"http://www.webcitation.org/6DdVYI0qQ"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.pixiv.net/member_illust.php?mode=medium&illust_id=44989543%0D"}
+ }

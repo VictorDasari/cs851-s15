@@ -1,0 +1,11 @@
+{"original_uri":"http://luatminhkhue.vn/dan-su/tu-van-thu-tuc-dang-ky-tam-tru.aspx",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://luatminhkhue.vn/dan-su/tu-van-thu-tuc-dang-ky-tam-tru.aspx",
+"mementos": {
+"list": [
+{"datetime":"2015-04-17T09:38:16Z",
+"uri":"http://web.archive.org/web/20150417093816/http://luatminhkhue.vn/dan-su/tu-van-thu-tuc-dang-ky-tam-tru.aspx"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://luatminhkhue.vn/dan-su/tu-van-thu-tuc-dang-ky-tam-tru.aspx"}
+ }

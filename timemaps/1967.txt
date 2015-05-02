@@ -1,0 +1,11 @@
+{"original_uri":"http://blog.livedoor.jp/corez18c24-mili777/archives/42412803.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blog.livedoor.jp/corez18c24-mili777/archives/42412803.html",
+"mementos": {
+"list": [
+{"datetime":"2015-03-17T15:45:36Z",
+"uri":"http://web.archive.org/web/20150317154536/http://blog.livedoor.jp/corez18c24-mili777/archives/42412803.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blog.livedoor.jp/corez18c24-mili777/archives/42412803.html"}
+ }

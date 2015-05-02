@@ -1,0 +1,11 @@
+{"original_uri":"http://rare.us/story/beautiful-ballet-moves-combined-with-hoziers-take-me-to-church-has-us-saying-amen/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://rare.us/story/beautiful-ballet-moves-combined-with-hoziers-take-me-to-church-has-us-saying-amen/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-23T06:58:06Z",
+"uri":"http://web.archive.org/web/20150423065806/http://rare.us/story/beautiful-ballet-moves-combined-with-hoziers-take-me-to-church-has-us-saying-amen"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://rare.us/story/beautiful-ballet-moves-combined-with-hoziers-take-me-to-church-has-us-saying-amen/"}
+ }

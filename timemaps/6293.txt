@@ -1,0 +1,14 @@
+{"original_uri":"http://www.peopleenespanol.com/gallery/miralos-adamari-lopez-luis-fonsi-shakira-sofia-vergara-ricky-martin-sofia-vergara-selena-gomez-eugenio-derbez-marjorie-sousa-christina-aguilera-",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.peopleenespanol.com/gallery/miralos-adamari-lopez-luis-fonsi-shakira-sofia-vergara-ricky-martin-sofia-vergara-selena-gomez-eugenio-derbez-marjorie-sousa-christina-aguilera-",
+"mementos": {
+"list": [
+{"datetime":"2015-02-12T23:03:26Z",
+"uri":"http://web.archive.org/web/20150212230326/http://www.peopleenespanol.com/gallery/miralos-adamari-lopez-luis-fonsi-shakira-sofia-vergara-ricky-martin-sofia-vergara-selena-gomez-eugenio-derbez-marjorie-sousa-christina-aguilera-"
+},
+{"datetime":"2015-04-23T10:51:53Z",
+"uri":"http://web.archive.org/web/20150423105153/http://www.peopleenespanol.com/gallery/miralos-adamari-lopez-luis-fonsi-shakira-sofia-vergara-ricky-martin-sofia-vergara-selena-gomez-eugenio-derbez-marjorie-sousa-christina-aguilera-"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.peopleenespanol.com/gallery/miralos-adamari-lopez-luis-fonsi-shakira-sofia-vergara-ricky-martin-sofia-vergara-selena-gomez-eugenio-derbez-marjorie-sousa-christina-aguilera-"}
+ }

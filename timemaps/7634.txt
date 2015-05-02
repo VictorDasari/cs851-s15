@@ -1,0 +1,14 @@
+{"original_uri":"http://marinascarrphotography.com/p489823091/h189847f4",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://marinascarrphotography.com/p489823091/h189847f4",
+"mementos": {
+"list": [
+{"datetime":"2014-04-09T03:30:12Z",
+"uri":"http://web.archive.org/web/20140409033012/http://marinascarrphotography.com/p489823091/h189847F4"
+},
+{"datetime":"2014-04-24T23:56:25Z",
+"uri":"http://web.archive.org/web/20140424235625/http://marinascarrphotography.com/p489823091/h189847f4"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://marinascarrphotography.com/p489823091/h189847f4"}
+ }

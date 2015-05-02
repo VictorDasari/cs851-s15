@@ -1,0 +1,14 @@
+{"original_uri":"http://www.fabwealth.net/2/post/2014/06/online-business-i-e-marketing-i-fabwelath.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.fabwealth.net/2/post/2014/06/online-business-i-e-marketing-i-fabwelath.html",
+"mementos": {
+"list": [
+{"datetime":"2014-08-08T19:42:23Z",
+"uri":"//wayback.archive-it.org/all/20140808194223/http://www.fabwealth.net/2/post/2014/06/online-business-i-e-marketing-i-fabwelath.html"
+},
+{"datetime":"2014-08-08T19:42:30Z",
+"uri":"//wayback.archive-it.org/all/20140808194230/http://fabwealth.net/2/post/2014/06/online-business-i-e-marketing-i-fabwelath.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.fabwealth.net/2/post/2014/06/online-business-i-e-marketing-i-fabwelath.html"}
+ }

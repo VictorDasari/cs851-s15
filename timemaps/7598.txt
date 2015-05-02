@@ -1,0 +1,62 @@
+{"original_uri":"http://www.twitch.tv/andyperfect",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.twitch.tv/andyperfect",
+"mementos": {
+"list": [
+{"datetime":"2014-01-01T18:32:22Z",
+"uri":"http://web.archive.org/web/20140101183222/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-02T12:15:50Z",
+"uri":"http://web.archive.org/web/20140102121550/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-03T13:49:12Z",
+"uri":"http://web.archive.org/web/20140103134912/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-04T09:38:40Z",
+"uri":"http://web.archive.org/web/20140104093840/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-06T09:40:51Z",
+"uri":"http://web.archive.org/web/20140106094051/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-07T11:48:12Z",
+"uri":"http://web.archive.org/web/20140107114812/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-08T15:15:51Z",
+"uri":"http://web.archive.org/web/20140108151551/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-09T15:05:42Z",
+"uri":"http://web.archive.org/web/20140109150542/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-10T12:48:27Z",
+"uri":"http://web.archive.org/web/20140110124827/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-11T20:46:03Z",
+"uri":"http://web.archive.org/web/20140111204603/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-12T16:49:09Z",
+"uri":"http://web.archive.org/web/20140112164909/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-13T22:15:00Z",
+"uri":"http://web.archive.org/web/20140113221500/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-14T14:12:02Z",
+"uri":"http://web.archive.org/web/20140114141202/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-01-16T13:54:26Z",
+"uri":"http://web.archive.org/web/20140116135426/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-02-16T10:22:00Z",
+"uri":"http://archive.is/20140216102200/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-07-28T06:27:15Z",
+"uri":"http://archive.is/20140728062715/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-08-26T13:01:44Z",
+"uri":"http://web.archive.org/web/20140826130144/http://www.twitch.tv/andyperfect"
+},
+{"datetime":"2014-12-04T16:38:49Z",
+"uri":"http://web.archive.org/web/20141204163849/http://www.twitch.tv/andyperfect"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.twitch.tv/andyperfect"}
+ }

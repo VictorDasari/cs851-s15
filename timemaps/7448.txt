@@ -1,0 +1,14 @@
+{"original_uri":"http://www.dailymaverick.co.za/article/2015-02-12-reforms-afoot-a-roman-sona/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.dailymaverick.co.za/article/2015-02-12-reforms-afoot-a-roman-sona/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-16T15:52:29Z",
+"uri":"http://web.archive.org/web/20150216155229/http://www.dailymaverick.co.za/article/2015-02-12-reforms-afoot-a-roman-sona/"
+},
+{"datetime":"2015-03-29T03:55:47Z",
+"uri":"http://web.archive.org/web/20150329035547/http://www.dailymaverick.co.za/article/2015-02-12-reforms-afoot-a-roman-sona/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.dailymaverick.co.za/article/2015-02-12-reforms-afoot-a-roman-sona/"}
+ }

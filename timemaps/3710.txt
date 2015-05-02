@@ -1,0 +1,23 @@
+{"original_uri":"http://www.bbc.co.uk/news/world-latin-america-31419930",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/world-latin-america-31419930",
+"mementos": {
+"list": [
+{"datetime":"2015-02-15T05:25:37Z",
+"uri":"//wayback.archive-it.org/all/20150215052537/http://www.bbc.co.uk/news/world-latin-america-31419930"
+},
+{"datetime":"2015-02-15T05:25:37Z",
+"uri":"http://web.archive.org/web/20150215052537/http://www.bbc.co.uk/news/world-latin-america-31419930"
+},
+{"datetime":"2015-02-22T04:48:54Z",
+"uri":"//wayback.archive-it.org/all/20150222044854/http://www.bbc.co.uk/news/world-latin-america-31419930"
+},
+{"datetime":"2015-02-22T04:48:54Z",
+"uri":"http://web.archive.org/web/20150222044854/http://www.bbc.co.uk/news/world-latin-america-31419930"
+},
+{"datetime":"2015-04-23T02:51:25Z",
+"uri":"http://web.archive.org/web/20150423025125/http://www.bbc.co.uk/news/world-latin-america-31419930"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/world-latin-america-31419930"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://err.shop-pro.jp/403.htm%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://err.shop-pro.jp/403.htm%0D",
+"mementos": {
+"list": [
+{"datetime":"2011-10-07T07:10:15Z",
+"uri":"http://webarchive.nationalarchives.gov.uk/20111007071015/http://err.shop-pro.jp/403.htm%0D"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://err.shop-pro.jp/403.htm%0D"}
+ }

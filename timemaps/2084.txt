@@ -1,0 +1,20 @@
+{"original_uri":"http://www.viber.com/en/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.viber.com/en/%0D",
+"mementos": {
+"list": [
+{"datetime":"2014-12-30T22:46:03Z",
+"uri":"http://wayback.vefsafn.is/wayback/20141230224603/http://www.viber.com/en/"
+},
+{"datetime":"2015-01-07T00:56:21Z",
+"uri":"http://wayback.vefsafn.is/wayback/20150107005621/http://www.viber.com/en/"
+},
+{"datetime":"2015-01-14T05:19:55Z",
+"uri":"http://wayback.vefsafn.is/wayback/20150114051955/http://www.viber.com/en/"
+},
+{"datetime":"2015-01-21T02:17:10Z",
+"uri":"http://wayback.vefsafn.is/wayback/20150121021710/http://www.viber.com/en/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.viber.com/en/%0D"}
+ }

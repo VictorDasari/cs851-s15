@@ -1,0 +1,11 @@
+{"original_uri":"http://Amazon.co.jp%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://Amazon.co.jp%0D",
+"mementos": {
+"list": [
+{"datetime":"2010-12-25T15:05:29Z",
+"uri":"http://www.webcitation.org/5vF5Q3j3C"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://Amazon.co.jp%0D"}
+ }

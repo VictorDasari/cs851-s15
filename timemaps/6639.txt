@@ -1,0 +1,32 @@
+{"original_uri":"http://www.med-tech.com.ua/index.php?mod=perzncont&mid=62&id=7%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.med-tech.com.ua/index.php?mod=perzncont&mid=62&id=7%0D",
+"mementos": {
+"list": [
+{"datetime":"2005-11-09T16:53:50Z",
+"uri":"http://www.webcitation.org/70"
+},
+{"datetime":"2005-11-09T16:53:50Z",
+"uri":"http://www.webcitation.org/5BJfBw8u5"
+},
+{"datetime":"2005-11-09T18:13:33Z",
+"uri":"http://www.webcitation.org/JT"
+},
+{"datetime":"2005-11-09T18:13:33Z",
+"uri":"http://www.webcitation.org/5BJkPd8Vf"
+},
+{"datetime":"2005-11-09T19:34:45Z",
+"uri":"http://www.webcitation.org/Vv"
+},
+{"datetime":"2005-11-09T19:34:45Z",
+"uri":"http://www.webcitation.org/5BJpjIkEs"
+},
+{"datetime":"2005-11-21T21:18:51Z",
+"uri":"http://www.webcitation.org/1A6"
+},
+{"datetime":"2005-11-21T21:18:51Z",
+"uri":"http://www.webcitation.org/5BcCGISN6"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.med-tech.com.ua/index.php?mod=perzncont&mid=62&id=7%0D"}
+ }

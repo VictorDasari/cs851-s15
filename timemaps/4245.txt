@@ -1,0 +1,11 @@
+{"original_uri":"http://WordPress.ORG/%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://WordPress.ORG/%0D",
+"timemap_index": [
+{"from":"2005-06-14T19:22:32Z",
+"until":"2014-10-21T10:02:29Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://WordPress.ORG/%0D"
+},{"from":"2014-10-21T10:02:34Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://WordPress.ORG/%0D"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://WordPress.ORG/%0D",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://WordPress.ORG/%0D"
+}}
