@@ -1,0 +1,17 @@
+{"original_uri":"http://canadiens.nhl.com/club/m_splash.htm%0D",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://canadiens.nhl.com/club/m_splash.htm%0D",
+"mementos": {
+"list": [
+{"datetime":"2011-07-30T09:00:44Z",
+"uri":"http://wayback.vefsafn.is/wayback/20110730090044/http://canadiens.nhl.com/club/m_splash.htm"
+},
+{"datetime":"2012-03-24T01:50:55Z",
+"uri":"http://wayback.vefsafn.is/wayback/20120324015055/http://canadiens.nhl.com/club/m_splash.htm"
+},
+{"datetime":"2012-03-25T07:45:15Z",
+"uri":"http://wayback.vefsafn.is/wayback/20120325074515/http://canadiens.nhl.com/club/m_splash.htm"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://canadiens.nhl.com/club/m_splash.htm%0D"}
+ }
